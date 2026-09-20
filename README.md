@@ -1,2 +1,2 @@
-# GeoDev-Lab--ptoject
+# GeoDev-Lab-project
 Which wards are more than 5km from health facilities in Afijio LGA, Oyo State.
